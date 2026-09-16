@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · 7LPD24D1 -->
-## Notification 1/2
-Round: Round 1
-To: deoldanny786@gmail.com, sam.wills5455@outlook.com
-At: 2026-09-16 13:30:07
-Id: 7LPD24D1
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: robin.hood544@outlook.com, sam.wills5434@outlook.com
+At: 2026-09-16 13:30:15
+Id: I8R1vnBE
